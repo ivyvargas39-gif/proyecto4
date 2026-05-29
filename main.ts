@@ -1,4 +1,3 @@
-/// <reference lib="deno.unstable" />
 import { Hono } from "https://deno.land/x/hono@v3.4.1/mod.ts";
 import { HTTPException } from "https://deno.land/x/hono@v3.12.10/http-exception.ts";
 
